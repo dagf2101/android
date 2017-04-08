@@ -522,4 +522,11 @@
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
 
+<!-- BEGIN REDMI -->
+<project path="device/xiaomi/markw" name="dagf2101/android_device_xiaomi_markw" />
+<project path="kernel/xiaomi/msm8953" name="dagf2101/android_kernel_xiaomi_msm8953" />
+<project path="vendor/xiaomi" name="dagf2101/proprietary_vendor_xiaomi" />
+<project path="hardware/qcom/display/msm8953" name="dagf2101/android_hardware_qcom_display" revision="cm-13.0-caf-8937"/>
+<!-- END REDMI -->
+
 </manifest>
