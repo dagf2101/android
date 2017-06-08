@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/xiaomi/markw" name="CrashbitDevelopers/android_device_xiaomi_markw" revision="cm-14.1"/>
+  <project path="kernel/xiaomi/msm8953" name="CrashbitDevelopers/android_kernel_xiaomi_msm8953" revision="n-7.1.2"/>
+  <project path="vendor/xiaomi/markw" name="CrashbitDevelopers/proprietary_vendor_xiaomi" revision="cm-13.0"/>
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-5.4.1" name="CrashbitDevelopers/gcc-linaro-x86_64_aarch64-linux-gnu" revision="5.4.1-2017.05"/>
+  
+</manifest>

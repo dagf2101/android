@@ -506,4 +506,6 @@
 
   <include name="snippets/cm.xml" />
 
+  <include name="snippets/markw.xml" />
+
 </manifest>
